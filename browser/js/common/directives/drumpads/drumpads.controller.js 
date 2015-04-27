@@ -1,0 +1,4 @@
+'use strict';
+app.controller('DrumpadsController', function($scope) {
+	$scope.here = "I'm in the controller.";
+});
